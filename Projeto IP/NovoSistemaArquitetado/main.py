@@ -1,2 +1,2 @@
 import RodarJogo
-RodarJogo.RodarJogo()
+RodarJogo.RodarJogo
