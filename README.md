@@ -19,4 +19,3 @@ Jogabilidade:
 - Use as teclas 'W''A''S''D' para se mover e a tecla 'E' para atirar Pokébolas
 - Capture o máximo de Pokémons com as suas Pokébolas e vença a equipe Rocket!
 - Se suas Pokebolas acabarem, basta passar por cima das que estão no chão para coletá-las
-- 
