@@ -3,7 +3,7 @@ Instalação:
 2) Instalar o Pycharm a partir de: https://www.jetbrains.com/pycharm/
 3) Criar um projeto novo no Pycharm
 4) Baixar o zip Projeto IP a partir do git (alternativamente, usar esse link para download https://www.mediafire.com/file/542gur6a0p4nrfz/Projeto_IP.zip/file)
-5) Extrair a pasta Projeto IP do zip
+5) Extrair a pasta Projeto IP do zip (Se tiver problemas nessa parte, é recomendado o uso do 7-zip: https://www.7-zip.org)
 6) Mover a pasta NovoSistemaArquitetado para dentro da pasta projeto do pycharm 
 (Se quiser encontrar a pasta de projetos, abra o projeto pelo pycharm e clique com o botão direito na pasta do projeto no menu esquerdo do pycharm vá em Open In >> Show in Explorer)
 7) Abrir o projeto utilizando o pycharm
