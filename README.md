@@ -12,8 +12,11 @@ file >> settings >> Project: nome do projeto >> Python Interpreter >> + >> pesqu
 9) Clicar com o botão esquerdo em main.py dentro de NovoSistemaArquitetado e clicar em Run (ícone de play verdinho)
 10) Divirta-se!
 
+Em caso de dificuldades, consultar o tutorial: https://drive.google.com/file/d/1V9hZ1eOK19L2XA53ne4Z6v_OiX7nlRxZ/view?usp=sharing
+
 Jogabilidade:
 - Pressione a barra de espaço para iniciar o jogo
 - Use as teclas 'W''A''S''D' para se mover e a tecla 'E' para atirar Pokébolas
 - Capture o máximo de Pokémons com as suas Pokébolas e vença a equipe Rocket!
 - Se suas Pokebolas acabarem, basta passar por cima das que estão no chão para coletá-las
+- 
