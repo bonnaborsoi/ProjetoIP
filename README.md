@@ -1,3 +1,4 @@
+Instalação:
 1) Instalar o Python a partir de : https://www.python.org/
 2) Instalar o Pycharm a partir de: https://www.jetbrains.com/pycharm/
 3) Criar um projeto novo no Pycharm
