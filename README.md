@@ -1,4 +1,6 @@
 Instalação:
+
+
 1) Instalar o Python a partir de : https://www.python.org/
 2) Instalar o Pycharm a partir de: https://www.jetbrains.com/pycharm/
 3) Criar um projeto novo no Pycharm
@@ -18,4 +20,4 @@ Jogabilidade:
 - Pressione a barra de espaço para iniciar o jogo
 - Use as teclas 'W''A''S''D' para se mover e a tecla 'E' para atirar Pokébolas
 - Capture o máximo de Pokémons com as suas Pokébolas e vença a equipe Rocket!
-- Se suas Pokebolas acabarem, basta passar por cima das que estão no chão para coletá-las
+- Se suas Pokebolas acabarem, basta passar por cima das que estão no chão para coletá-las.
